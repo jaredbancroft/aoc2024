@@ -7,8 +7,14 @@
         "gopkg",
         "inconshreveable",
         "jaredbancroft",
+        "mulfrom",
+        "mulhow",
+        "mulselect",
+        "mulwhen",
+        "mulwhy",
         "nums",
         "pflag",
-        "russross"
+        "russross",
+        "xmul"
     ]
 }
