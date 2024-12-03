@@ -134,8 +134,6 @@ func part2(lvl []int) int {
 		r2, _ := part1(retest2)
 		r3, _ := part1(lvl[1:])
 
-		fmt.Println(retest1, retest2, r1, r2, r3)
-
 		if r1 == 1 || r2 == 1 || r3 == 1 {
 			return 1
 		}
