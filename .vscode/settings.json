@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "alocs",
         "blackfriday",
         "cpuguy",
         "dylib",
@@ -7,6 +8,7 @@
         "gopkg",
         "inconshreveable",
         "jaredbancroft",
+        "mlocs",
         "mulfrom",
         "mulhow",
         "mulselect",
@@ -15,6 +17,12 @@
         "nums",
         "pflag",
         "russross",
+        "slocs",
+        "xloc",
+        "xlocs",
         "xmul"
-    ]
+    ],
+    "cSpell.ignorePaths" : [
+        "inputs/",
+    ],
 }
