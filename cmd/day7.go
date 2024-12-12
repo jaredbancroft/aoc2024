@@ -19,7 +19,7 @@ var day7Cmd = &cobra.Command{
 	Use:   "day7",
 	Short: "Advent of Code 2024 - Day 7: Bridge Repair",
 	Long: `
---- Day 5: Bridge Repair ---
+--- Day 7: Bridge Repair ---
 
 	`,
 	RunE: func(cmd *cobra.Command, args []string) error {
